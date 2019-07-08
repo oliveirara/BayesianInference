@@ -1,5 +1,5 @@
-# BayesianStatistics
-Some notebooks from Bayesian Statistics Class 2019
+# BayesianInference
+Some notebooks from Bayesian Inference Class 2019
 
 You can run all notebooks using mybinder.
 
